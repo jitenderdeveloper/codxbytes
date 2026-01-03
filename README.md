@@ -12,6 +12,7 @@
 👤 Client Contact → 📋 Planning → 🚀 Development → ✅ Delivery → 🛠️ Support
 
 📄 [View Full IT Services & Workflow](IT_SOLUTIONS_SERVICES.md)
+📄 [View Full MARKETING Services & Workflow](MARKETING_SOLUTIONS.md)
 
 📩 Contact: business@codxbytes.com
 🌐 Website: https://www.codxbytes.com
